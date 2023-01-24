@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yarii
+ *
+ */
+module TestGit {
+}
